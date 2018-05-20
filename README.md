@@ -1,2 +1,2 @@
-# essential_machine_learning
-Source of Pearson Live Lesson Video Series
+# Essential Machine Learning
+Source code for Pearson Live Lesson Video Series
